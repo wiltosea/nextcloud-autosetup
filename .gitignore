@@ -1,0 +1,58 @@
+# Arquivos de ambiente
+.env
+.env.local
+.env.production
+
+# Diretórios de dados
+data/
+config/
+apps/
+themes/
+ssl/
+backups/
+
+# Logs
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Arquivos de backup
+*.bak
+*.backup
+*.old
+
+# Arquivos de cache
+cache/
+tmp/
+
+# Arquivos de Docker
+.dockerignore
+
+# Arquivos de certificados
+*.pem
+*.key
+*.crt
+*.csr
+
+# Arquivos de senha
+passwords.txt
+secrets.txt
+
+# Arquivos de configuração local
+local.conf
+custom.conf 
